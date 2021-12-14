@@ -1,0 +1,6 @@
+git init - inicializar o git na pasta do repositório
+git add - adicionar arquivos ao repósitorio
+git commit - comitar as atualizações
+git push - subir os arquivos para o git hub
+git pull - atualizar meu repositório local e em nuvem
+git remote add nome-do-repositorio-remoto link-do-repo
